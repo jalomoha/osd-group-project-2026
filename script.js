@@ -1,12 +1,26 @@
-
 const members = [
     {
         name: "Abubakar Yahaya Zimit",
         username: "ayarzamit",
         role: "Group Leader",
         contribution: "Project Setup & Coordination"
+    },
+    // ================= ADD YOUR DETAILS BELOW =================
+    // Copy the format below and add your info before the last ];
+
+    {
+        name: "Member Full Name 2",
+        username: "githubusername2",
+        role: "Group Member",
+        contribution: "Added my profile card"
+    },
+    {
+        name: "Member Full Name 3",
+        username: "githubusername3",
+        role: "Group Member",
+        contribution: "Added my profile card"
     }
-    // Other 17 members will add their info here
+    // Add more members here...
 ];
 
 function displayMembers() {
