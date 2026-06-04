@@ -164,3 +164,33 @@ footer .social-links h3 {
         padding: 40px 15px 20px;
     }
 }
+
+/* ====================== */
+/* Contact Section - Member 13 */
+/* ====================== */
+
+#contact {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+#contact h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+#contact p {
+    color: #555;
+    margin: 10px 0;
+    font-size: 1rem;
+}
+
+#contact i {
+    color: #667eea;
+    margin-right: 8px;
+}
